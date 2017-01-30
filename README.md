@@ -2,4 +2,4 @@ The idea for this project came from FreeCodeCamp's "Build a Random Quote Machine
 
 The API used can be found at https://github.com/wsizoo/game-of-thrones-quotes 
 
-
+https://justincthomas.github.io/Game-Of-Thrones-Quotes-Webpage/
