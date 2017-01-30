@@ -1,0 +1,79 @@
+* {
+  margin: 0;
+}
+
+body {
+  background-image: url("../images/WinterIsComing.jpg"); 
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#quoteBox {
+  background-color: lightgray;
+  height: 160px;
+  width: 450px;
+  border-radius: 10px;
+  display: block;
+  margin: 23% auto auto auto;
+  padding: 40px 20px;
+  position: relative;
+  opacity: 0.9;
+}
+
+#quote-here {
+  text-align: center;
+  width: 450px;
+  height: 130px;
+}
+
+button {
+  height: 30px;
+  cursor: pointer;
+  float: right;
+  margin-top: 25px;
+  display: block;
+}
+
+button:hover {
+  opacity: .9;
+}
+
+#author {
+  float: right;
+}
+
+#twitter {
+  font-size: 2.2em;
+  height: 1em;
+  width: 1em;
+  text-decoration: none;
+  color: rgb(0, 172, 237);
+  background-color: white;
+  float: left;
+  margin-top: 25px;
+}
+
+#twitter:hover {
+  color: cyan;
+}
+
+footer {
+  font-size: 3.5em;
+  text-align: center;
+  margin-top: 250px;
+  display: block;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: white;
+}
