@@ -22,7 +22,7 @@ btn.addEventListener("click", function () {
       charQuote = charQuote.slice(0, 100) + "...";
     }
     else if (charQuote.length > 110) {
-      charQuote = charQuote.slice(0, 110) + "...";
+      charQuote = charQuote.slice(0, 105) + "...";
     }
    
     charQuote = encodeURIComponent(charQuote);
